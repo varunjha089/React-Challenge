@@ -1,23 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import {Info} from './info.js'
 
 function App() {
 	return (
 		<div className="App">
 			<Info />
 			<AddItem />
-		</div>
-	);
-}
-
-function Info() {
-	const title = "This is the title of Applicaton";
-	const showTitle = true;
-
-	return (
-		<div>
-			<h1>{title ? showTitle : ""}</h1>
-			<p>Manage your stuff.</p>
 		</div>
 	);
 }
