@@ -1,4 +1,12 @@
 # React Challenge
+
+![Lines of code](https://img.shields.io/tokei/lines/github/varunjha089/React-Challenge?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/varunjha089/React-Challenge)
+![Twitter Follow](https://img.shields.io/twitter/follow/varunjha089?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/varunjha089/React-Challenge)
+![GitHub top language](https://img.shields.io/github/languages/top/varunjha089/React-Challenge)
+
+
 Challenging myself to learn React.
 
 This repository is a collection of various react resources and projects.
