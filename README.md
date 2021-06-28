@@ -32,4 +32,4 @@ This repository is a collection of various react resources and projects.
 | 15 | Create an Instagram Clone with React, Tailwind CSS, Firebase - Tutorial | Youtube | FreeCodeCamp | [Link](https://www.youtube.com/watch?v=mDgEqoQUBgk) |
 | 16 | Chat Application using React JS | Youtube | JavaScript Mastery | [Link](https://www.youtube.com/watch?v=jcOKU9f86XE) |
 | 17 | Material UI React Tutorial | Youtube | Traversy Media | [Link](https://www.youtube.com/watch?v=vyJU9efvUtQ) |
-
+| 18 | Expanding Your JS Skills with React | A Cloud Guru | Keith Thompson | [Link](https://acloud.guru/overview/expanding-your-js-skills-with-react) |
