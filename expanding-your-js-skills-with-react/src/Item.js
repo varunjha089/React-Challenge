@@ -4,7 +4,11 @@ const Item = (props) => {
   return (
     <li>
       <label>
-        <input type="checkbox" checked={props.done || false} />
+        <input
+          onClick={props.clickHandler}
+          type="checkbox"
+          checked={props.done || false}
+        />
         <span>{props.text}</span>
       </label>
     </li>
