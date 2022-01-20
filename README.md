@@ -34,3 +34,4 @@ This repository is a collection of various react resources and projects.
 | 17 | Material UI React Tutorial | Youtube | Traversy Media | [Link](https://www.youtube.com/watch?v=vyJU9efvUtQ) |
 | 18 | [Expanding Your JS Skills with React](expanding-your-js-skills-with-react/) <br><br> Grocery React Application | A Cloud Guru | Keith Thompson | [Link](https://acloud.guru/overview/expanding-your-js-skills-with-react) |
 | 19 | The React Bootcamp | Scrimba | Bob Ziroll | [Link](https://scrimba.com/learn/react) |
+| 20 | my-note | Udemy | Dennis Ivy | [Link](https://www.udemy.com/course/react-crash-course/) |
