@@ -1,6 +1,6 @@
 # My Notes
 
-<img src="./Notes.PNG">  
+<img src="./images/Notes.PNG">  
 
 
 # Getting Started with Create React App
