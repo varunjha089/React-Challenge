@@ -1,6 +1,6 @@
 # My Notes
 
- ![notes](Notes.PNG)
+<img src="./Notes.PNG">  
 
 
 # Getting Started with Create React App
